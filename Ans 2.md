@@ -1,5 +1,7 @@
 ## 2. What are the different steps in grouping fields and combining tables in tableau ? Explain with examples. (With the help of an example create one in tableau)
 
+Dataset Used: [World Cup](Datasets/world_cup_results.xlsx)
+
 ### Grouping the fields:
 - Right-click on the selected fields and choose "Group."
 - A new group will be created with the selected field values.

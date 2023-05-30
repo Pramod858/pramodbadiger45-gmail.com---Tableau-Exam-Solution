@@ -1,4 +1,6 @@
-## 3. What is the use of color and size options in the marks cart of tableau ? (With the help of an example create one in tableau)
+## 3. What is the use of color and size options in the marks cart of tableau ? (With the help of an example create one in tableau).
+
+Dataset Used: [World Cup](Datasets/world_cup_results.xlsx)
 
 In Tableau, the color and size options in the Marks card allow you to encode additional information within your visualizations. They provide a way to visually represent data dimensions or measures, enhancing the understanding of patterns, comparisons, and relationships in your data.
 

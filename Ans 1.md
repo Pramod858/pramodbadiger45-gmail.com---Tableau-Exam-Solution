@@ -11,5 +11,19 @@ Create the area graph:
 - Tableau will automatically aggregate the values based on the time period.
 - To create the area graph, click on the "Show Me" panel on the right side of the interface and select the "Area" chart type.
 
-<b>Line Graph</b>
+<b>Area Graph</b>
 <img src="images/Home and Away Goals.png">
+
+## Line Graphs:
+- Line graphs are used to show the relationship between two continuous variables, typically representing trends, changes, or comparisons over time.
+- The graph consists of data points connected by straight lines.
+- Line graphs are effective for illustrating the magnitude and direction of change in data.
+
+Create the line graph:
+- Drag the time-related field (Year) to the Columns shelf.
+- Drag the quantitative field (Goals Scored, Matches Played) to the Rows shelf.
+- Tableau will automatically aggregate the values based on the time period.
+- To create the line graph, click on the "Show Me" panel on the right side of the interface and select the "Line" chart type.
+
+<b>Line Graph</b>
+<img src="images/Matches Played v_s Goals Scored.png">

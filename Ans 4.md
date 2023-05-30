@@ -1,4 +1,6 @@
-## 3. What are the different joins supported by tableau? (With the help of an example create one in tableau)
+## 3. What are the different joins supported by tableau? (With the help of an example create one in tableau).
+
+Dataset Used: [World Cup](Datasets/world_cup_results.xlsx)
 
 <b>The common types of joins in Tableau are:</b>
 

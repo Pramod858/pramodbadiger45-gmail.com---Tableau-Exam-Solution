@@ -13,4 +13,4 @@ The reference distribution is a distribution that uses the reference line for th
 
 <img src="images/Distribution Band 1.png">
 <br>
-<img src="images/Distribution Band 1.png">
+<img src="images/Distribution Band 2.png">

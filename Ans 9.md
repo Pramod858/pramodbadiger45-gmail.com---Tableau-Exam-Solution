@@ -1,4 +1,6 @@
-## 9. Explain the steps to create bar chart and pie diagram in tableau with example (With the help of an example create one in tableau)
+## 9. Explain the steps to create bar chart and pie diagram in tableau with example (With the help of an example create one in tableau).
+
+Dataset Used: [Super Store](Datasets/sample_-_superstore.xls)
 
 ### Bar Chart
 

@@ -1,4 +1,6 @@
-## 6. Explain in detail the heat maps and scatter plot and how to create them with example (With the help of an example create one in tableau)
+## 6. Explain in detail the heat maps and scatter plot and how to create them with example (With the help of an example create one in tableau).
+
+Dataset Used: [Super Store](Datasets/sample_-_superstore.xls)
 
 ### Create Heat Map:
 

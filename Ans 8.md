@@ -2,8 +2,8 @@
 
 Dataset Used: [Super Store](Datasets/sample_-_superstore.xls)
 
-`Reference distribution:` 
-The reference distribution is a distribution that uses the reference line for the division. The visualization is distributed in some parts with the help of a reference line as it works as a distribution boundary between these parts of the visualization.
+`Distribution Band:` 
+Distribution bands in Tableau, also known as box plots or box-and-whisker plots, are visualizations that provide insights into the distribution of data points. They display summary statistics such as median, quartiles, and outliers, allowing users to understand the spread, central tendency, and skewness of the data.
 
 ### Create Distribution Bands
 

@@ -1,4 +1,4 @@
-## What are the different steps in grouping fields and combining tables in tableau ? Explain with examples. (With the help of an example create one in tableau)
+## 2. What are the different steps in grouping fields and combining tables in tableau ? Explain with examples. (With the help of an example create one in tableau)
 
 ### Grouping the fields:
 - Right-click on the selected fields and choose "Group."

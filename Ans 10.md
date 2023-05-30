@@ -1,5 +1,7 @@
 ## 10. How to add story points on the dashboard (With the help of an example create one in tableau).
 
+Dataset Used: [World Cup](Datasets/world_cup_results.xlsx)
+
 ### Add Worksheets or Dashboards as Story Points
 
 On the story canvas, click on the "Blank" or "Worksheet" option to add a new story point.

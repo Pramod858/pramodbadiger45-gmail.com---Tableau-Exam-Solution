@@ -1,4 +1,6 @@
-## 7. How to create table calculations in tableau with examples . (With the help of an example create one in tableau)
+## 7. How to create table calculations in tableau with examples . (With the help of an example create one in tableau).
+
+Dataset Used: [Super Store](Datasets/sample_-_superstore.xls)
 
 Define the Table Calculation
 

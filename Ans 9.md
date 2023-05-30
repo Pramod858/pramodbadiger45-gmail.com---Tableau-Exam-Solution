@@ -4,7 +4,7 @@
 
 <b>Choose the Bar Chart Type</b>
 
-- In the Marks card, click on the drop-down menu and select `Bar` as the chart type.
+- Select the measure from the data and click on the show me in there it will show bar chart.
 - Tableau will automatically generate a basic bar chart based on the selected dimensions and measures.
 
 <img src="images/Bar Chart.png">

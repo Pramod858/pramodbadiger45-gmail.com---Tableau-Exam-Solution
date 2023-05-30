@@ -14,7 +14,7 @@ Create the area graph:
 - To create the area graph, click on the "Show Me" panel on the right side of the interface and select the "Area" chart type.
 
 <b>Area Graph</b>
-<img src="images/Home and Away Goals.png">
+<img src="images/Matches Played v_s Goals Scored.png">
 
 ## Line Graphs:
 - Line graphs are used to show the relationship between two continuous variables, typically representing trends, changes, or comparisons over time.
@@ -28,5 +28,5 @@ Create the line graph:
 - To create the line graph, click on the "Show Me" panel on the right side of the interface and select the "Line" chart type.
 
 <b>Line Graph</b>
-<img src="images/Matches Played v_s Goals Scored.png">
+<img src="images/Home and Away Goals.png">
 
